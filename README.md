@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Laura</h1>
-<h3 align="center">A full stack developer and mechanical engineer</h3>
+<h3 align="center">A :computer: full stack developer and :nut_and_bolt: mechanical engineer</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Laura-Broder](https://github.com/Laura-Broder)
 
