@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Laura-Broder](https://github.com/Laura-Broder)
 
-- ⚡ Fun fact: **I have a weird love for investigating and solving bugs - it's like being Sherlock Holmes! :mag_right::mag_right::mag_right:**
+- ⚡ Fun fact: **I have a weird passion for investigating and solving bugs - it's like being Sherlock Holmes! :mag_right::mag_right::mag_right:**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
